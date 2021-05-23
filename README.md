@@ -1,14 +1,14 @@
 # DEAP
 Use keras to classify the DEAP dataset
 
-Need to create some floders:
+Need to create 2 floders:
 
-#data_preprocessed_python
+1.data_preprocessed_python
  - to store datasets.
  - It includes:
  - s01.dat
  - s02.dat
  - ...
   
-#dataset
+2.dataset
  - to store processed datasets.
